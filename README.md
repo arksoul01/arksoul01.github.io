@@ -2,4 +2,4 @@
 
 This repository of mine contains my portfolio
 
-## [GoTo](https://powerfist01.github.io/)
+## [GoTo](https://arksoul01.github.io/)
